@@ -1,0 +1,25 @@
+{
+  "name": "ts-jest-next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "PabloSz",
+  "license": "MIT",
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@types/jest": "^24.0.23",
+    "@types/node": "^12.12.14",
+    "@types/react": "^16.9.14",
+    "@types/react-dom": "^16.9.4",
+    "jest": "^24.9.0",
+    "next": "^9.1.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "ts-jest": "^24.2.0",
+    "typescript": "^3.7.3"
+  },
+  "scripts": {
+    "start": "next",
+    "test": "jest"
+  }
+}
