@@ -5,6 +5,8 @@
   "author": "PabloSz",
   "license": "MIT",
   "dependencies": {
+    "@babel/plugin-transform-for-of": "^7.7.4",
+    "@pablosz/ts-jest": "^24.2.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@types/jest": "^24.0.23",

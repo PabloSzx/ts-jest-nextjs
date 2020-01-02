@@ -499,7 +499,7 @@
     "@babel/helper-builder-binary-assignment-operator-visitor" "^7.7.4"
     "@babel/helper-plugin-utils" "^7.0.0"
 
-"@babel/plugin-transform-for-of@^7.4.4":
+"@babel/plugin-transform-for-of@^7.4.4", "@babel/plugin-transform-for-of@^7.7.4":
   version "7.7.4"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-for-of/-/plugin-transform-for-of-7.7.4.tgz#248800e3a5e507b1f103d8b4ca998e77c63932bc"
   integrity sha512-zZ1fD1B8keYtEcKF+M1TROfeHTKnijcVQm0yO/Yu1f7qoDoxEIc/+GX6Go430Bg84eM/xwPFp0+h4EbZg7epAA==
@@ -1012,6 +1012,22 @@
     "@types/istanbul-lib-coverage" "^2.0.0"
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
+
+"@pablosz/ts-jest@^24.2.1":
+  version "24.2.1"
+  resolved "https://registry.yarnpkg.com/@pablosz/ts-jest/-/ts-jest-24.2.1.tgz#4749e56559fa38e26ba5c3d257cb69b139f7b629"
+  integrity sha512-dFe3AEJHTKANqFBsx0axnHfueTBEM7tJHhwptem6wzPB34kvzqDOk8aWg0G1GqXr3wNvp2SWeW+Vzv7EhH5FtA==
+  dependencies:
+    bs-logger "0.x"
+    buffer-from "1.x"
+    fast-json-stable-stringify "2.x"
+    json5 "2.x"
+    lodash.memoize "4.x"
+    make-error "1.x"
+    mkdirp "0.x"
+    resolve "1.x"
+    semver "^5.5"
+    yargs-parser "10.x"
 
 "@sheerun/mutationobserver-shim@^0.3.2":
   version "0.3.2"
