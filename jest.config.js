@@ -7,7 +7,7 @@ module.exports = {
       tsConfig: "__tests__/tsconfig.json",
       babelConfig: {
         comments: false
-        // plugins: ["@babel/plugin-transform-for-of"],
+        // plugins: ["@babel/plugin-transform-for-of"]
         // plugins: [
         //   [
         //     require("./plugins/jsx-pragma"),
